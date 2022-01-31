@@ -13,7 +13,7 @@ let hide = false;
 let __Time = 20;
 let __k = 4;
 let _close = false;
-var url = 'https://raw.githubusercontent.com/hinderb/eatkeqingvers/main/static/image/ClickBefore.png';
+var url = 'https://hinderb.github.io/eatkeqingvers/static/image/ClickBefore.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
